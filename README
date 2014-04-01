@@ -29,3 +29,6 @@ Optional:
 
 Fresh binaries you can find in the 'release' directory.
 Documentation available in the 'docs'.
+
+TODO:
+Download ts fragment using p2p network
